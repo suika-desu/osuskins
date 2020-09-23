@@ -1,15 +1,6 @@
 # suika's osu! skins
 
-```mermaid
-graph LR
-A{Tournament?} -- Yes --> B{What kind of map?}
-A -- No --> C[Any skin]
-B -- 10.3 / HR maps --> D[suika's skin mashup]
-B -- No Mods --> E[Bubbleman's skin]
-B -- Stream maps --> F[Bubbleman's skin / Azr8's skin]
-B -- Tech maps --> G[Bubbleman's skin / rho bunny galaxy / gilmat v1.0 / WWW v1.6]
-B -- HD maps --> H[rho bunny galaxy / Bubbleman's skin]
-```
+![enter image description here](https://i.imgur.com/DlzCSu8.jpeg)
 
  ## 1. [**rho bunny galaxy v2 (tournament edit)**](https://exreidesu.s-ul.eu/HGAGSUn9)
  ![enter image description here](https://i.imgur.com/PxwTzBo.jpg)
