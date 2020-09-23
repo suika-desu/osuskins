@@ -1,6 +1,6 @@
 # suika's osu! skins
 
-![enter image description here](https://i.imgur.com/DlzCSu8.jpeg)
+![enter image description here](https://i.imgur.com/NqaN8Hx.jpg)
 
  ## 1. [**rho bunny galaxy v2 (tournament edit)**](https://exreidesu.s-ul.eu/HGAGSUn9)
  ![enter image description here](https://i.imgur.com/PxwTzBo.jpg)
